@@ -2,11 +2,8 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 This Web application was constructed to help assist new bootcamp students in keeping notes on new topics and continue in their strive for learning in a clean and presentable manner. The organization and functionality allows student to study and find topics in which extra time may be needed. 
 
-- What did you learn?
 ## Installation
 
 N/A
